@@ -1,4 +1,6 @@
 ## This is A Standard GOPATH Project Workspace Structure
+http://docscn.studygolang.com/doc/code.html
+
 src: Go source files directory
 
 pkg: Go packages directory
