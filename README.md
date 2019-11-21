@@ -1,4 +1,10 @@
 ## This is A Standard GOPATH Project Workspace Structure
+src: Go source files directory
+
+pkg: Go packages directory
+
+bin: Go executable file directory
+
 #### Step1: Checkout Current Project to Your Local Directory
 ```git clone https://github.com/denghejun/go.git YourLocalDirectoryPath```
 
