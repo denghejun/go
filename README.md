@@ -1,5 +1,5 @@
 #### Step1: Checkout Current Project to Your Local Directory
-https://github.com/denghejun/go.git YourLocalDirectoryPath
+git clone https://github.com/denghejun/go.git YourLocalDirectoryPath
 
 #### Step2: Set/Update Your $GOPATH ENV
 export $GOPATH=YourLocalDirectoryPath
