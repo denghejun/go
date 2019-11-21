@@ -10,6 +10,7 @@ bin: Go executable file directory
 
 #### Step2: Set/Update Your $GOPATH ENV
 ```export GOPATH=YourLocalDirectoryPath```
+
 ```export PATH=$PATH:$GOPATH/bin```
 
 #### Step3: Go Install Any Project
