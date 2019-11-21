@@ -1,3 +1,4 @@
+## This is A Standard GOPATH Project Workspace Structure
 #### Step1: Checkout Current Project to Your Local Directory
 ```git clone https://github.com/denghejun/go.git YourLocalDirectoryPath```
 
