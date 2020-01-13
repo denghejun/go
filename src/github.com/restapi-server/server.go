@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/gorilla/mux"
+	"log"
 	"net/http"
 )
 
@@ -11,5 +12,7 @@ func main() {
 	port := 9083
 	bindRoutes(r)
 	fmt.Println(fmt.Sprintf("api server is running on %d", port))
-	http.ListenAndServe(fmt.Sprintf(":%d", port), r)
+	if e := http.ListenAndServe(fmt.Sprintf(":%d", port), r); e != nil {
+		log.Print(e)
+	}
 }
