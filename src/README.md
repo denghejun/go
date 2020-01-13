@@ -24,11 +24,14 @@ test文件以"_test.go"结尾，在其目录下执行`go test`,运行单元测�
 ## go run xxx.go
 go文件中必须包含main函数, 执行go文件中的main函数。
 
-## go get xxx
+## go get xx
 安装`gorilla/mux`以编写RESTful API Server. see `./restapi-server`
 ```
 go get -u github.com/gorilla/mux
 ```
+
+## go get & go install
+下载依赖并构建.
 
 
 

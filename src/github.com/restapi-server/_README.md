@@ -1,5 +1,5 @@
 ## How to tun
-1. `go install`
+1. `go get && go install`
 2. `restapi-server`
 
 ## call api
