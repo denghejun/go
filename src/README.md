@@ -20,5 +20,8 @@ Go install do a little more. It move the executable file to $GOPATH/bin and cach
 ## go test
 test文件以"_test.go"结尾，在其目录下执行`go test`,运行单元测试.
 
+## go run xxx.go
+go文件中必须包含main函数, 执行go文件中的main函数。
+
 
 
