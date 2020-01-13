@@ -34,6 +34,8 @@ go get -u github.com/gorilla/mux
 下载依赖并构建.
 
 
+## go 同一个package下多文件可见，不用引用
+
 ## refer doc
 https://gowebexamples.com/
 
