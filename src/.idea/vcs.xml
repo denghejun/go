@@ -8,6 +8,7 @@
     <mapping directory="$PROJECT_DIR$/github.com/eapache/go-xerial-snappy" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/eapache/queue" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/golang/snappy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/gorilla/mux" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/klauspost/compress" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/pierrec/lz4" vcs="Git" />
   </component>
